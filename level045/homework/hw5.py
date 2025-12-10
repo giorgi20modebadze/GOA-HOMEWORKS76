@@ -1,4 +1,7 @@
 # შექმენით სიტყვებით სავსე სია, ამ სიიდან ამოშალეთ ყველა სიტყვა რომელიც იწყება Uppercase დიდი ასო G-თი და რომლის ბოლო 2 ასო არის ასევე Uppercase. ხოლო ყველა სიტყვა რომლის თითოეული ასო არის Lowercase-ში, აიყვანეთ Uppercase-ში შესაბამისი სტრინგის ფუნქციის გამოყენებით. დაპრინტეთ მიღებული სია.
 
 
-names = ["mate", "Nika", "levani", "Giorgi", "gegi", "Sandro", "Gigi"]
+# names = ["mate", "Nika", "levani", "Giorgi", "gegi", "Sandro", "Gigi"]
+
+# for i in range(len(names)):
+#     if names[i][0] == "G" and names[i][-1][-2].upper

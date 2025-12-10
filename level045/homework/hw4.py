@@ -3,6 +3,20 @@
 
 names = ["mate", "Nika", "levani", "Giorgi", "gegi", "Sandro", "Gigi"]
 
-for i in names:
-    if i[0] ==
+
+
+i = 0
+while i < len(names):
+    if names[i][0].isupper() and i % 2 == 0:
+        names.pop(i)
+    else:
+        i += 1
+
+
+for i in range(len(names)):
+    if names[i][0].isupper() and i % 2 == 1:
+        names[i] = names[i].lower()
+
+print(names)
+
 

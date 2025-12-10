@@ -3,5 +3,10 @@
 
 names = ["mate", "Nika", "Levani", "Giorgi", "gegi", "Sandro", "gigi"]
 
-for i in names:
+for i in range(len(names)):
+    if names[i][0].islower():
+        names[i] = names[i].capitalize()
+
+print(names)
+    
     
