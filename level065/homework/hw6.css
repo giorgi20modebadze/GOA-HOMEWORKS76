@@ -1,0 +1,14 @@
+.p123 {
+    color: pink;
+    font-size: 30px;
+    background-color: blue;
+    text-align: center;
+    border: green 4px solid;
+}
+
+div button {
+    color: blueviolet;
+    background-color: brown;
+    text-align: right;
+    border: none 3px yellowgreen;
+}

@@ -1,0 +1,59 @@
+.p1 {
+    color: cadetblue;
+    font-size: 20px;
+    background-color: brown;
+    border: none 3px lawngreen;
+
+}
+
+
+div button {
+    color: blueviolet;
+    background-color: brown;
+    text-align: right;
+    border: none 3px yellowgreen;
+}
+
+
+#r1 {
+    color: red;
+    background-color: blue;
+    font-size: 15px;
+    border: solid greenyellow 3px;
+
+}
+
+#r2{
+    color: rosybrown;
+    background-color:indigo;
+    font-size: 14px;
+    border: solid teal 5px;
+
+}
+
+
+#r3 {
+    color: fuchsia;
+    background-color: khaki;
+    font-size: 15px;
+    border: solid indianred 2px;
+
+}
+
+
+#r4 {
+    color: wheat;
+    background-color: hotpink;
+    font-size: 12px;
+    border: solid lawngreen 3px;
+
+}
+
+
+#r5 {
+    color: orange;
+    background-color: brown;
+    font-size: 10px;
+    border: solid green 4px;
+
+}

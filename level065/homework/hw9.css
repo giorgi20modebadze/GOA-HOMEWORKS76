@@ -1,0 +1,16 @@
+.l1 {
+    color: fuchsia;
+    background-color: khaki;
+    font-size: 20px;
+    border: solid indianred 2px;
+      text-align: center;
+}
+
+
+.l2 {
+    color: pink;
+    font-size: 20px;
+    background-color: blue;
+    text-align: center;
+    border: green 4px solid;
+}

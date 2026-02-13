@@ -1,0 +1,94 @@
+.hi1 {
+    color: fuchsia;
+    background-color: khaki;
+    font-size: 15px;
+    border: solid indianred 2px;
+}
+
+
+#p1 {
+    color: red;
+    background-color: blue;
+    font-size: 15px;
+    border: solid greenyellow 3px;
+
+}
+
+#p2{
+    color: rosybrown;
+    background-color:indigo;
+    font-size: 14px;
+    border: solid teal 5px;
+
+}
+
+
+#p3 {
+    color: fuchsia;
+    background-color: khaki;
+    font-size: 15px;
+    border: solid indianred 2px;
+    
+}
+
+
+#p4 {
+    color: wheat;
+    background-color: hotpink;
+    font-size: 12px;
+    border: solid lawngreen 3px;
+
+}
+
+
+#p5 {
+    color: orange;
+    background-color: brown;
+    font-size: 10px;
+    border: solid green 4px;
+
+}
+
+#p6 {
+    color: gold;
+    background-color: red;
+    font-size: 13px;
+    border: solid yellow 3px;
+
+}
+
+
+#p7 {
+    color: orchid;
+    background-color: lawngreen;
+    font-size: 12px;
+    border: solid gray 3px;
+
+}
+
+
+#p8 {
+    color: indianred;
+    background-color: red;
+    font-size: 10px;
+    border: solid yellow 4px;
+
+}
+
+#p9 {
+    color: sandybrown;
+    background-color: aqua;
+    font-size: 13px;
+    border: solid chocolate 3px;
+
+}
+
+
+#p10 {
+    color: lawngreen;
+    background-color: blueviolet;
+    font-size: 13px;
+    border: solid black 3px;
+
+}
+

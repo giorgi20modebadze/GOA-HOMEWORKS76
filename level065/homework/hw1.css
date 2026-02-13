@@ -1,0 +1,24 @@
+.p1 {
+    color: blue;
+    font-size: 25px;
+    background-color: red;
+    border: green solid 4px;
+}
+
+.p2 {
+    color: green;
+    font-size: 45px;
+    background-color: yellow;
+    border: solid purple 7px;
+    text-align: center;
+}
+
+.p3 {
+    color: orange;
+    font-size: 14px;
+    background-color: blue;
+    border: pink solid 2px;
+    text-align: left;
+    
+}
+
