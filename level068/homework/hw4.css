@@ -1,0 +1,11 @@
+p {
+    text-transform: uppercase;
+}
+
+#p {
+    text-transform: lowercase;
+}
+
+.p {
+    text-transform: capitalize;
+}
