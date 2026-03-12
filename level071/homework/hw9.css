@@ -1,0 +1,19 @@
+/* font-family კუთვნილება გამოიყენება ტექსტის შრიფტის შესაცვლელად.
+   font-family-ს შეგვიძლია გადავცეთ სხვადასხვა შრიფტის სახელები.
+
+
+/* მაგალითები 
+
+p{
+    font-family: Arial;
+}
+
+h1{
+    font-family: "Times New Roman";
+}
+
+h2{
+    font-family: Verdana, sans-serif;
+}
+
+*/
