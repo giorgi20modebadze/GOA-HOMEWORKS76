@@ -1,0 +1,40 @@
+#a1:link {
+    background-color: navy;
+    color: yellow;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+
+
+}
+
+#a2:visited {
+    background-color: rgb(128, 0, 53);
+    color: rgb(0, 255, 221);
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+#a3:hover {
+    background-color: rgb(0, 53, 128);
+    color: red;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+#a4:active {
+    background-color: lawngreen;
+    color: aquamarine;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+body {
+    text-align: center;
+}
