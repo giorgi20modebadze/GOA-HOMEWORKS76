@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid magenta;
+}
+
+
+
+td:nth-child(odd) {
+    color: green;
+    background-color: red;
+    font-family: cursive;
+    text-align: center;
+    
+    
+}
+
+td:nth-child(even) {
+    color: yellow;
+    background-color: blue;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 35px;
+}

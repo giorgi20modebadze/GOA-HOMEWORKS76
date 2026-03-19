@@ -1,0 +1,35 @@
+
+.c1 {
+    list-style-type: none;
+    color: black;
+    background-color: yellow;
+    border: 2px solid orange;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    
+}
+
+
+.c2 {
+    list-style-type: none;
+    color: burlywood;
+    background-color: white;
+    border: 1px solid grey;
+    font-weight: normal;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+   
+}
+
+
+
+.c1 li:active,
+.c2 li:active {
+    color: white;
+    background-color: orange;
+    border: 2px solid red;
+    font-weight: bold;
+    font-family: "Courier New", monospace;
+    font-size: 20px;
+}

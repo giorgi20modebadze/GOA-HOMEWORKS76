@@ -1,0 +1,18 @@
+.c1 {
+    list-style-type: disc;
+    color: white;
+    background-color: skyblue;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid gray;
+    
+}
+
+.c2{
+    list-style-type: lower-alpha;
+    color: black;
+    background-color: white;
+    font-weight: normal;
+    font-size: 16px;
+    border: 1px solid gray;
+}

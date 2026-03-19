@@ -1,0 +1,18 @@
+.k5{
+    list-style-type: upper-roman;
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.c3{
+    list-style-type: square;
+    background-color: aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}

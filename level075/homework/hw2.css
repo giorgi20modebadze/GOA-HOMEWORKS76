@@ -1,0 +1,21 @@
+
+.m1{
+    list-style-type: decimal-leading-zero;
+    color:white;
+    background-color: skyblue;
+    border: 2px solid gray;
+    font-weight: bold;
+    font-size: 18px;
+   
+
+}
+
+
+.k1 {
+    list-style-type: circle;
+    color: goldenrod;
+    background-color: white;
+    border: 1px solid green;
+    font-weight: normal;
+    font-size: 10px;
+}
