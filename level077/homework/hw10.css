@@ -1,0 +1,23 @@
+ol li {
+    list-style: georgian inside; /* shorthand */
+    background-color: peru;
+    color: lawngreen;
+    font-size: 15px;
+    text-decoration: underline;
+   
+}
+
+ul li {
+    list-style: circle outside; /* shorthand */
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+    text-decoration: none;
+   
+}
+
+
+li:hover {
+    background-color: hotpink;
+    color: seagreen;
+}

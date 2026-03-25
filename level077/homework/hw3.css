@@ -1,0 +1,24 @@
+ul li {
+     list-style: square;
+     font-weight: lighter; 
+     font-size: 15px;
+     color: aquamarine;
+     background-color:brown;
+     border: solid 3px yellow;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
+ol li {
+    list-style: georgian;
+    font-weight: bold;
+    font-size: 13px;
+    color: red;
+    background-color: teal;
+    border: solid 4px khaki;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}

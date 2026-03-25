@@ -1,0 +1,18 @@
+ol li {
+    list-style: georgian outside;
+    font-size: 20px;
+    color: mediumspringgreen;
+    background-color: brown;
+    border: solid khaki 3px;
+    text-align: center;
+}
+
+ul li {
+    list-style: square inside;
+    font-size: 15px;
+    color: rgb(50, 0, 250);
+    background-color: rgb(106, 165, 42);
+    border: solid rgb(140, 240, 210) 3px;
+    text-align: center;
+
+}

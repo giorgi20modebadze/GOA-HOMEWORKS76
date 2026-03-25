@@ -1,0 +1,9 @@
+ul li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: inside url('shopping_cart_checkout_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png');
+    color: yellow;
+    background-color: lawngreen;
+    border: 4px solid red;
+    font-weight: bolder;
+    text-align: center;
+}

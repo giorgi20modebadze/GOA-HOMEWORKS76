@@ -1,0 +1,32 @@
+.table1 {
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.table1 th,
+.table1 td {
+    border: 2px solid #2c3e50;
+    
+}
+
+.table1 th {
+    background-color: greenyellow; 
+}
+
+
+.table1 tr:nth-child(2) {
+    background-color: white;
+}
+
+.table1 tr:nth-child(3) {
+    background-color: #2aa3b0;
+}
+
+.table1 tr:nth-child(4) {
+    background-color: white;
+}
+
+.table1 tr:nth-child(5) {
+    background-color: #2aa3b0;
+}

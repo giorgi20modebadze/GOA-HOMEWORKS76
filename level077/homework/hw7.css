@@ -1,0 +1,25 @@
+ol li {
+    list-style: inside georgian;
+    color: aquamarine;
+    background-color: brown;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+ol li:hover {
+    background-color: steelblue;
+    color: palegreen;
+
+}
+
+ol li:active {
+    background-color:red;
+    color: purple;
+}
+
+h3 {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}

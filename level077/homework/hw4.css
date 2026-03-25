@@ -1,0 +1,12 @@
+ul li {
+    list-style: circle inside url("star_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png");
+    border: 2px solid red;
+    background-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: olive;
+}
+
+ul li:hover {
+    background-color: steelblue;
+    color: palegreen;
+}

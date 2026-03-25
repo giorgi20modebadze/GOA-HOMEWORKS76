@@ -1,0 +1,9 @@
+ul li {
+    list-style: inside;
+    border: 3px solid purple;
+    background-color: blue;
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+
+}

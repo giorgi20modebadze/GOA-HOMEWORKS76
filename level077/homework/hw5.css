@@ -1,0 +1,9 @@
+ol li {
+    list-style: inside url("prompt_suggestion_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png") ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    color: blueviolet;
+    background-color: red;
+    text-align: right;
+}
