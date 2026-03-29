@@ -1,0 +1,22 @@
+
+input{
+    outline: none;
+    color: gray;
+    border: gray 1px solid;
+    border-radius: 1px;
+
+
+  
+
+}
+
+button {
+    background-color: rgb(255, 105, 127);
+    color: white;
+    text-align: center;
+    
+}
+
+form {
+    text-align: center;
+}

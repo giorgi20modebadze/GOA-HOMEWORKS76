@@ -1,0 +1,19 @@
+
+input {
+    outline: none;
+    background-color: green;
+    border: red solid 1px;
+    color: blue;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+input:focus {
+
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: lighter;
+}
