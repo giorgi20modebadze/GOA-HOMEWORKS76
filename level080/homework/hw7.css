@@ -1,0 +1,14 @@
+input{
+    font-size: 10px;
+    color: blueviolet;
+    background-color: blue;
+    border: 3px solid khaki;
+
+}
+
+div {
+    border-top: 2px solid red;
+    border-right: 2px solid teal;
+    border-bottom: 2px solid royalblue;
+    border-left: 2px solid lawngreen;
+}

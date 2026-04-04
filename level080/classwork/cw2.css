@@ -1,0 +1,25 @@
+.bt {
+    border-top: red 2px solid;
+    border-right: blue 2px solid;
+    border-bottom: purple 2px solid;
+    border-left: yellow 2px solid;
+
+}
+
+
+#lp1 {
+    margin: 80px 20px;
+}
+
+#lp2 {
+    margin: 40px;
+}
+
+#lp3 {
+    margin: 10px 60px 35px 80px;
+}
+
+#lp4 {
+    margin-bottom: 45px;
+}
+

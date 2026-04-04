@@ -1,0 +1,19 @@
+#b1 {
+    border: 2px yellow solid;
+    padding: 40px 100px;
+}
+
+#b2 {
+    border: 2px red solid;
+    padding: 64px;
+}
+
+#b3 {
+    border: 3px purple solid;
+    padding-top: 50px 20px 15px 70px;
+}
+
+#b4 {
+    border: 3px lawngreen solid;
+    padding-top: 45px;
+}

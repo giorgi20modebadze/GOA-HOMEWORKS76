@@ -1,0 +1,12 @@
+div {
+    border: 6px solid yellow;
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+    margin-top: 900px;
+
+}
+
+button {
+    padding: 50px;
+}
