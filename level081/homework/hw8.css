@@ -1,0 +1,27 @@
+.parent{
+
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    width: 350px;
+    height: 300px;
+    background-color: pink;
+    border: blue 2px solid;
+
+
+
+
+}
+
+
+
+.child {
+    padding: 30px;
+    margin: 30px;
+    font-size: 16px;
+    background-color: purple;
+    
+
+
+
+}

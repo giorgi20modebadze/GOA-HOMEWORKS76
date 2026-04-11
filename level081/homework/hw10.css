@@ -1,0 +1,16 @@
+/*flex ის საშუალებით ელემენტებს განვალაგებტ სწორად  (ვერტიკალურად ან ჰორიზონტალურად)
+
+row  – მარცხნიდან მარჯვნივ
+row-reverse – მარჯვნიდან მარცხნივ
+column – ზემოდან ქვემოთ
+column-reverse – ქვემოდან ზემოთ
+
+
+justify-content იყოფა:
+flex-start – დასაწყისში
+flex-end – ბოლოში
+flex center – ცენტრში
+
+align-items იყოფა:
+start, center end
+
