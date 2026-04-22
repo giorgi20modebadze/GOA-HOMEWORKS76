@@ -1,0 +1,10 @@
+
+.nav {
+  border: 2px solid red;
+  list-style: none;
+  display: flex;
+  gap: 40px;
+
+  
+
+}

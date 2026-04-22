@@ -1,0 +1,12 @@
+.parent {
+    width: 500px;
+    display: flex;
+    border: 2px skyblue solid;
+    gap: 15px;
+    justify-content: end;
+    flex-wrap: wrap;
+}
+
+.child {
+    background-color: pink;
+}

@@ -1,0 +1,17 @@
+.parent {
+    width: 800px;
+    height: 800px;
+    border: 2px solid purple;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap-reverse;
+
+}
+
+.child {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+
+}

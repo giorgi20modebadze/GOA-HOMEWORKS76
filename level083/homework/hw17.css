@@ -1,0 +1,29 @@
+.parent{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    border: 2px solid hotpink;
+
+
+}
+
+#first {
+    align-self: flex-end;
+    background-color: blueviolet;
+}
+
+#second {
+    align-self: start;
+    background-color: brown;
+}
+
+#third {
+    align-self: center;
+    background-color: chartreuse;
+
+}
+
+#fourth {
+    background-color: blue;
+}
+

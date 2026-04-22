@@ -1,0 +1,14 @@
+.container {
+    width: 400px;
+    border: 2px red solid;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.child {
+    width: 120px;
+    background-color: skyblue;
+
+
+}

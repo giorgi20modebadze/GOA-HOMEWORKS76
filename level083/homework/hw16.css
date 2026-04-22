@@ -1,0 +1,22 @@
+.parent {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    border: khaki 2px solid;
+
+}
+
+.child {
+    width: 20px;
+    background-color: yellowgreen;
+}
+
+
+
+
+
+
+
+#second {
+    align-self: start;
+}

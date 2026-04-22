@@ -1,0 +1,14 @@
+.parent {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 300px;
+    gap: 15px;
+    border: 3px solid navy;
+
+}
+
+.child {
+    background-color: aqua;
+    width: 50px;
+
+}
