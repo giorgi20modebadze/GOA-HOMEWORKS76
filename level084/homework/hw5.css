@@ -1,0 +1,24 @@
+.parent {
+    display: flex;
+    background-color: red;
+    width: 500px;
+    gap: 10px;
+    flex-wrap: wrap;
+
+
+}
+
+#first {
+    flex-basis: 150px;
+    background-color: gray;
+}
+
+#second {
+    flex-basis: 150px;
+    background-color: greenyellow;
+}
+
+#third {
+    flex-basis: 150px;
+    background-color: aqua;
+}
