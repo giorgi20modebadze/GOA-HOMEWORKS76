@@ -1,0 +1,25 @@
+.nav1 {
+    display: flex;
+    align-items: center;
+    border: 2px solid blue;;
+    
+}
+
+.div1, .but {
+    flex-shrink: 0;
+
+}
+
+.menu {
+  display: flex;
+  gap: 30px;
+  flex-shrink: 1; 
+  list-style: none;
+  justify-content: start;
+
+
+  
+}
+ 
+
+

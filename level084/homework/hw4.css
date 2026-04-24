@@ -1,0 +1,20 @@
+.parent {
+    display: flex;
+    width: 300px;
+    height: 150px;
+    justify-content: center;
+    align-items: start;
+    gap: 12px;
+    background-color: yellow;
+
+}
+
+.child:hover {
+    background-color: brown;
+
+}
+
+
+#third {
+    flex-grow: 3;
+}
