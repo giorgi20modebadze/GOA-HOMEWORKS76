@@ -23,6 +23,7 @@ body {
     align-items: center;
     overflow: hidden;
     border-radius: 7px;
+    
 
 }
 
@@ -62,11 +63,23 @@ h1 {
 }
 
 p, button {
-    font-family: "Big Shoulders", sans-serif;
+    font-family: "Big Shoulders", sans-serif 
+
+
 }
 
-img {
-    padding-top: 54px;
+
+
+
+
+
+
+
+
+
+
     
-}
+    
+    
+
 
