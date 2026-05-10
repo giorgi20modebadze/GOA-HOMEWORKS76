@@ -147,8 +147,15 @@ button {
 
 #why h3 {
     color:hsl(204, 43%, 93%);
-    padding-bottom: 20px;
+    
 }
+
+#why {
+    display: flex;
+    gap: 20px;
+}
+
+
 #why p {
     color: rgb(242, 240, 240);
     font-size:14px;
