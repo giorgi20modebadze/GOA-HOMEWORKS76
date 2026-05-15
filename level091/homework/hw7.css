@@ -1,0 +1,39 @@
+.parent{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    position: relative;
+}
+
+
+.circle{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+}
+
+
+.circle1{
+    top: 0;
+    left: 0;
+}
+
+
+.circle2{
+    top: 0;
+    right: 0;
+}
+
+
+.circle3{
+    bottom: 0;
+    left: 0;
+}
+
+
+.circle4{
+    bottom: 0;
+    right: 0;
+}

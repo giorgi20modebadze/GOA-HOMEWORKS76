@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div{
+    width: 150px;
+    height: 150px;
+
+}
+
+.box1 {
+    background-color: rebeccapurple;
+
+}
+
+.box2 {
+    position: relative;
+    right: 40px;
+    background-color: yellow;
+}
+
