@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(221, 100%, 96%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:"Hanken Grotesk", sans-serif;
+
+}
+
+.parent {
+    width: 618px;
+    height: 433px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    overflow: hidden;
+    justify-content: center;
+    
+
+
+}
+
+.child1 {
+    width: 50%;
+    background-color:hsl(250, 95%, 61%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    gap: 26px;
+
+    
+
+
+}
+
+
+    
+
+
+.child2 {
+    width: 50%;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+    
+
+}
+
+ul {
+    list-style: none;
+
+}
+
+.point {
+    background-color: hsl(252, 69%, 49%);
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#p2 {
+    font-size: 13px;
+    text-align: center;
+    color: hsl(241, 100%, 85%)
+    
+
+
+}
+
+.point h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.child1 h3 {
+    color: hsl(241, 100%, 89%);
+
+}
+
+#p1 {
+    color:hsl(246, 100%, 73%) ;
+    
+    
+    
+}
+
+.child1 h2 {
+    color: hsl(180, 100%, 99%);
+
+
+} 
+
+.scores {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    justify-content: center;
+    
+
+
+}
+
+#list1 {
+    width: 232px;
+    height: 42px;
+    display: flex;
+    border-radius: 9px;
+    background-color: rgb(255, 246, 247);
+    align-items: center;
+    color:hsl(0, 100%, 67%);
+    font-weight: 600;
+    font-size: 14px;
+    gap: 15px;
+    
+    
+    
+}
+
+#list2 {
+    width: 232px;
+    height: 42px;
+    display: flex;
+    border-radius: 9px;
+    background-color: rgb(255, 250, 244);
+    align-items: center;
+    font-weight: 600;
+    color: hsl(39, 100%, 56%);
+    font-size: 14px;
+    gap: 15px;
+
+}
+
+#list3 {
+    width: 232px;
+    height: 42px;
+    display: flex;
+    border-radius: 9px;
+    align-items: center;
+    background-color: rgb(242, 253, 249);
+    font-weight: 600;
+    color: hsl(166, 100%, 37%);
+    font-size: 14px;
+    gap: 15px;
+
+}
+
+#list4 {
+    width: 232px;
+    height: 42px;
+    display: flex;
+    border-radius: 9px;
+    align-items: center;
+    background-color: rgb(244, 244, 254);
+    font-weight: 600;
+    color: hsl(234, 85%, 45%);
+    font-size: 14px;
+    gap: 15px;
+    
+
+}
+
+
+
+
+button {
+    width: 232px;
+    height: 42px;
+    border-radius: 21px;
+    border: none;
+    background-color: hsl(224, 30%, 27%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+
+    
+
+
+}
+
+#summ {
+    align-self: flex-start;
+    padding-left: 36px;
+}
+
+
+
+
+
+
+
+
