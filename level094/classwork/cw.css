@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 1000vh;
+
+}
+
+
+.box {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background-color: red;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}

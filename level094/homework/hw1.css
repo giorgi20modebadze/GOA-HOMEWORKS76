@@ -1,0 +1,43 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+
+}
+
+.parent {
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    position: relative;
+
+}
+
+
+.child {
+    background-color: blue;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+
+}
+
+
+
+
+
+
+/* <!-- შექმენი div 400px x 400px წითელი, რომელსაც ექნება position: relative;.
+შიგნით ჩასვი პატარა ლურჯი კვადრატი position: absolute;-ით და მოათავსე:
+ზედა მარჯვენა კუთხეში
+ზომა: 50x50px --> */

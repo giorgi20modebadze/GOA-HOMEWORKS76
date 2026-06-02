@@ -1,0 +1,21 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 1000vh;
+}
+
+.box {
+    background-color: bisque;
+    border: 1px solid none;
+    position: fixed;
+    left: 20px;
+    top: 0;
+
+}

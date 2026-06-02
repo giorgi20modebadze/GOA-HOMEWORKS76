@@ -1,0 +1,27 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+}
+
+.card {
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.child {
+    background-color: blueviolet;
+    position: absolute;
+    border: 1px solid none;
+    bottom: 0;
+    left: 0;
+}

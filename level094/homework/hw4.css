@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 1000vh;
+}
+
+.box {
+    background-color: whitesmoke;
+    border: none;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    
+
+}
+
+#message {
+    width: 110px;
+    height: 60px;
+    border-radius: 50%;
+}
