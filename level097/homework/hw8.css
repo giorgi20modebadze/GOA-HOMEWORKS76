@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#hero {
+    height: 100vh;
+    background-image: url("small-breeds-hero.jpg");
+    border: 3px solid gold;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

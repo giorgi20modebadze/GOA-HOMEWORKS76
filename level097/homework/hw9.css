@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#blue {
+    width: 500px;
+    height: 500px;
+    background-image: url("MINI-New-Cooper-Split-Content.webp");
+    border: 2px solid blue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+
+}
+
+p {
+    color: yellow;
+    font-size: 35px;
+    position: absolute;
+    right: 0;
+    
+}

@@ -1,0 +1,28 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#pink {
+    width: 400px;
+    height: 250px;
+    background-image: url("panda_with_cord.8abd0b4f.webp");
+    border: palevioletred 2px solid;
+    background-size: 100px;
+    background-repeat: no-repeat;
+
+
+}
+

@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#purple {
+    width: 200px;
+    height: 200px;
+    background-image: url("pexels-photo-36776729.jpg");
+    border: 3px solid purple;
+    background-repeat: repeat-y;
+    background-size: 80px;
+    background-position: left bottom;
+    
+
+}

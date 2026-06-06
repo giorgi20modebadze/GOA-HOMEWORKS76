@@ -1,0 +1,49 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pink,#green,#blue {
+    width: 200px;
+    height: 200px;
+
+}
+
+#pink {
+    background-color: palevioletred;
+    z-index: 2;
+    position: relative;
+    left: 125px;
+    bottom: 165px;
+
+
+}
+
+
+#green {
+    background-color: green;
+    z-index: 1;
+
+
+
+}
+
+#blue {
+    background-color: skyblue;
+    z-index: 3;
+    position: relative;
+    right: 125px;
+    bottom: 120px;
+
+
+}

@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#yellow {
+    width: 300px;
+    height: 300px;
+    border: 2px yellow solid;
+    background-image: url("serenity-summer-day-durmitor-national-600nw-2623341111.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    
+
+
+
+}
+

@@ -1,0 +1,40 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parent{
+    width: 500px;
+    height: 500px;
+    background-image: url("serenity-summer-day-durmitor-national-600nw-2623341111.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid gold;
+    
+
+}
+
+
+.child {
+    width: 300px;
+    height: 300px;
+    background-image: url("panda_with_cord.8abd0b4f.webp");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 100px;
+    
+
+
+}
