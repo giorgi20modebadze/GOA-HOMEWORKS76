@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ok {
+    width: 130px;
+    height: 100px;
+    background-color: teal;
+    color: white;
+    border: 2px solid red;
+
+}
+
+#ok:hover {
+    transform: rotate(90deg);
+}

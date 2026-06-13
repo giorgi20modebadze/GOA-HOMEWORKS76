@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1 {
+    width: 160px;
+    height: 140px;
+    background-color: greenyellow;
+    border: 2px solid red;
+    transform: translateX(-50px);
+}

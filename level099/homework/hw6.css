@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ok {
+    width: 100px;
+    height: 40px;
+}
+
+#ok:hover {
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    transform: translate(10px, 15px);
+
+}
