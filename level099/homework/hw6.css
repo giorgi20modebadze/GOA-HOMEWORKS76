@@ -17,8 +17,6 @@ body {
 }
 
 #ok:hover {
-    width: 100px;
-    height: 40px;
     background-color: blue;
     color: white;
     transform: translate(10px, 15px);

@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    height: 130vh;
+    background-image: url("487313552_653189104131055_9111043674858649549_n.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Karla", sans-serif;
+
+
+
+
+    
+}
+
+nav {
+    background-color:green;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+    
+
+}
+
+
+nav a {
+    color: black;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+nav a:hover {
+    background-color: aqua;
+    border-radius: 17px;
+
+    
+}
+
+img {
+    border-radius: 50%;
+    
+}
+
+
+
+.parent{
+    height: 480px;
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 0 black;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    transform: translate(485px, 100px);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+#img1{
+    border-radius: 12px;
+    margin-left: 3px;
+    
+    
+}
+
+button{
+    width: 75px;
+    height: 27px;
+    border: none;
+    background-color: rgb(240, 200, 83);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 3px;
+    font-weight: 800;
+    font-size: 12px;
+}
+
+
+
+.publish{
+    padding: 15px 0px 10px 3px;
+    font-size: 17px;
+}
+
+.courses{
+    font-size: 24px;
+    padding: 7px 0px 14px 3px;
+}
+
+.info{
+    color: green;
+    margin: 0px 0px 22px 7px;
+    line-height: 1.4;
+    font-size: 21px;
+}
+
+.child{
+    height: 40px;
+    font-size: 10px;
+    margin: 3px 0px 0px 3px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.child img{
+    width: 45px;
+    height: 40px;
+}
+
+.child h3{
+    font-size: 19px;
+    
+    
+}
+

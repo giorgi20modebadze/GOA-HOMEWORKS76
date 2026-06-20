@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.enter {
+    width: 150px;
+    height: 70px;
+    background-color: aqua;
+    color: black;
+    transition:transform 3s, background-color 2s linear/3s ;
+
+
+}
+
+.enter:hover {
+    transform: scale(1.2);
+    background-color: red;
+    color: white;
+    
+
+
+} 
+
+
+
+
+
