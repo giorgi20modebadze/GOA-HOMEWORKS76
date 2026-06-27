@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.div1 {
+    height: 100px;
+    height: 100px;
+    background: green;
+    animation-duration: 2s;
+    animation-name: square;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+
+
+}
+
+@keyframes square {
+    from {
+        width: 100px;
+        height: 100px;
+        background: green;
+
+
+    }
+    to {
+        width: 200px;
+        height: 200px;
+        background: purple;
+        transform: rotate(360deg);
+
+    }
+}

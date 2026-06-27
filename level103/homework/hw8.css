@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.div1 {
+    width: 30px;
+    height: 0px;
+    background: yellow;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    animation-name: square;
+}
+
+@keyframes square {
+    from {
+        height: 0px;
+
+    }
+    to {
+        height: 400px;
+
+
+    }
+}

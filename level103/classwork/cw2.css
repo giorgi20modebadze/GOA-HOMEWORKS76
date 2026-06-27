@@ -1,0 +1,28 @@
+
+.div1 {
+    width: 150px;
+    height:150px ;
+    background: blue;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 5;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+    animation-name: square;
+
+
+}
+
+@keyframes square {
+    from { background: blue;
+
+
+    }
+    to {
+        transform: translateY(110px) rotate(90deg) scale(1.5);
+        border-radius: 50px;
+
+
+
+    }
+}

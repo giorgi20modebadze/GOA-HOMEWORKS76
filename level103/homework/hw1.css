@@ -1,0 +1,25 @@
+
+
+
+.div1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-name: square;
+
+
+
+}
+
+@keyframes square {
+    from {
+
+    }
+    to {
+        transform: translateX(500px);
+
+    }
+}

@@ -1,0 +1,27 @@
+
+.div1 {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    animation-name: square;
+    transform-origin: top right;
+    animation-duration: 3s;
+
+}
+
+@keyframes square {
+    from {
+        background: blue;
+
+    }
+    to {
+        transform: translate(200px, 100px) rotate(360deg);
+        background: purple;
+        width: 200px;
+        height: 200px;
+        border-radius: 40%;
+
+
+
+    }
+}
