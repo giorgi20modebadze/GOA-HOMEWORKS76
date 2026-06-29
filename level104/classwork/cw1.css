@@ -1,0 +1,23 @@
+.div1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: yellow;
+    animation:circle 4s linear 2s 5 forwards alternate;
+
+}
+
+@keyframes circle {
+    0% {
+        background-color: yellow;
+        transform: translate(0px, 0px);
+
+
+    }
+    100% {
+        background-color: blue;
+        transform: translate(550px, 0px); scale:1.5;
+        
+
+    }
+}
