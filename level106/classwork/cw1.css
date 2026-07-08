@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent {
+    width: 900;
+    height: 900px;
+    border: 2px solid red;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px 150px;
+    grid-template-rows:150px 150px 150px 150px 150px 150px ;
+
+
+}
+
+#red {
+    background-color: red;
+    /* grid-column:3 / 6 ; განსაზღვრას სვეტების განლაგებას, grid-column-start და grid-column-end შემოკლებული ვარიანტია
+    grid-row:4 / 7 ;  განსაზღვრავს რიგების განლაგებას, grid-row-start grid-row-end შემოკლებული ვარიანტია */ 
+    grid-area: 4 / 3 / 7 / 6
+}
+   
+
+
+
+

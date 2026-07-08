@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.parent {
+    width: 500px ;
+    height: 500px;
+    border: 2px solid lawngreen;
+    display: grid;
+    grid-template-rows: 120px 120px 120px;
+    grid-template-columns: 80px 80px 80px ;
+    /* align-items: start; */
+     /* align-items: center;  */
+    /* align-items: end; */
+
+
+
+}
+
+.parent div {
+    background-color: teal;
+    height: 40px;
+    grid-area: 3 /2 /4 /3;
+
+}

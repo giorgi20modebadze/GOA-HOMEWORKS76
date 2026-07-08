@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.parent {
+    width: 700px;
+    height: 250px;
+    display: grid;
+    grid-template-columns:100px 100px 100px;
+    grid-template-rows: 50px 50px 50px;
+    border: 2px solid yellow;
+    /* justify-content: start; */
+    /* justify-content:center ; */
+    /* justify-content: end; */
+
+
+}
+
+.parent div {
+    background-color: blue;
+    grid-area: 2 / 3 / 3 / 4;
+
+
+}
+

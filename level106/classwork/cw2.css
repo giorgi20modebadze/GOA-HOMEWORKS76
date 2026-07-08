@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent {
+    width: 800px;
+    height: 700px;
+    border: red solid 2px;
+    grid-template-columns: 150px 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px 150px;
+    justify-content: center;
+    align-content: end;
+    justify-items: center;
+    align-items: end;
+
+
+}
+
+ .parent div {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    
+}
