@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.parent {
+    width: 800px;
+    height:800px ;
+    border: yellow solid 2px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px ;
+    grid-template-rows:200px 200px 200px ;
+    justify-content: end;
+    align-content: end;
+    justify-items:end ;
+    align-items: start;
+
+
+
+}
+
+#child1, #child2, #child3, #child4, #child5, #child6, #child7, #child8 {
+    background-color: red;
+    width: 50%;
+    height: 50%;
+}
+
+#child9 {
+    background-color: red;
+    width: 50%;
+    height: 50%;
+    justify-self: start;
+    align-self:end ;
+
+}
+
