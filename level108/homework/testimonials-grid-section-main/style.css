@@ -107,16 +107,6 @@ h5 {
     font-weight: 400;
 }
 
-/* #mark {
-   width: 120px;
-   height: 110px;
-   border: none;
-   transform: translateX(130px);
-   z-index: 1;
-   
-   
-} */
-
 
 
 h1 {
@@ -149,6 +139,8 @@ p {
 #about {
     z-index: 2;
 }
+
+
 
 
 
