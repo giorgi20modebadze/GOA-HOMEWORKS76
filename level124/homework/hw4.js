@@ -1,3 +1,3 @@
-let name = "  giorgi   "
+let userName = "  giorgi   "
 
-console.log(name.toUpperCase().trim())
+console.log(userName.toUpperCase().trim())
