@@ -5,3 +5,6 @@ let result = input.trim().replaceAll("!!!", "!").slice(0, 20) + "..."
 
 
 console.log(result)
+
+
+
