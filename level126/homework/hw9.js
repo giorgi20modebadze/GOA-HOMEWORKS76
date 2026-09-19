@@ -10,7 +10,7 @@ if (text === ""){
     console.log("ტექსტი ემოციურია")
 }else if (text.endsWith("?")){
     console.log("ეს შეკითხვაა")
-}else if (text("bad")){
+}else if (text.includes("bad")){
     console.log(text.replaceAll("bad", "good"))
 }else {
     console.log(text.toUpperCase())

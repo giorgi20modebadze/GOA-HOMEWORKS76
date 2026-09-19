@@ -2,8 +2,8 @@ let password = prompt("შეიყვანეთ პაროლი:").trim()
 
 if (password === "") {
     console.log("პაროლი არ შეგიყვანია")
-}else if (password === "javascript123") {
+}else if (password === "javascript123"){
     console.log("სწორი პაროლია")
-}else {
+}else{
     console.log("არასწორი პაროლი")
 }
