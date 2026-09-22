@@ -1,0 +1,5 @@
+let age = 16
+let isStudent = true
+
+
+console.log((age < 18 || isStudent)? "Discount": "No Discount")
