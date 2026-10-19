@@ -11,3 +11,5 @@ scores[4] = 70
 console.log(scores)
 
 console.log(scores.length)
+
+
