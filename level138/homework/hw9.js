@@ -32,3 +32,6 @@ console.log(totalSum)
 
 
 
+
+
+

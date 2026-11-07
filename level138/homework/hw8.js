@@ -21,3 +21,8 @@ for (let i = start; i <= end; i++){
 console.log(total)
 console.log(multOf3)
 console.log(multOf3And5)
+
+
+
+
+
