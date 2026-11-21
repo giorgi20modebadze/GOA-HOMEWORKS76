@@ -6,4 +6,5 @@ while (i <= 50){
     }
     i++
 }
+
 console.log(count)
